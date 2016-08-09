@@ -7,7 +7,7 @@ var CACHE_FILES = [
     'media/fonts/1ove.ttf',
     'media/fonts/1ove.woff',
     'media/img/soema-one-love.png',
-    'one.css'
+    'one.css',
     'one.js'
 ];
 
