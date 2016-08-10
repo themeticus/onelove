@@ -34,6 +34,9 @@ h1 {
   margin: 0 0 20px;
   font-weight: normal; }
 
+small {
+  text-transform: uppercase; }
+
 @font-face {
   font-family: 'onelove';
   src: url("media/fonts/1ove.ttf") format("ttf"), url("media/fonts/1ove.woff") format("woff"); }
@@ -550,207 +553,194 @@ body {
 #saying {
   background-image: url(media/img/love-from-the-021-1.jpg); }
 
-#sharp1 {
+#can-you-dig {
   background-image: url(media/img/love-from-the-021-2-1.jpg); }
 
-#slide2 {
+#same-witch-different-bitch {
   background-image: url(media/img/love-from-the-021-2-135.jpg); }
 
-#slide3 {
+#the-ashes {
   background-image: url(media/img/love-from-the-021-2-3.jpg); }
 
-#slide4 {
+#cordless {
   background-image: url(media/img/love-from-the-021-2-4.jpg); }
 
-#slide5 {
+#henosis {
   background-image: url(media/img/love-from-the-021-2-49.jpg); }
 
-#slide6 {
+#true-story {
   background-image: url(media/img/love-from-the-021-2-11.jpg); }
 
-#slide7 {
+#the-somethingverse {
   background-image: url(media/img/love-from-the-021-2-26.jpg); }
 
-#slide8 {
+#volition {
   background-image: url(media/img/love-from-the-021-2-12.jpg); }
 
-#slide9 {
+#create-love {
   background-image: url(media/img/love-from-the-021-2-102.jpg); }
 
-#slide10 {
+#a-day-to-remember {
   background-image: url(media/img/love-from-the-021-2-13.jpg); }
 
-#slide11 {
+#truth-be-told {
   background-image: url(media/img/love-from-the-021-2-14.jpg); }
 
-#slide12 {
+#the-beast {
   background-image: url(media/img/love-from-the-021-2-21.jpg); }
 
-#slide13 {
+#bated-breath {
   background-image: url(media/img/love-from-the-021-2-22.jpg); }
 
-#slide14 {
+#onelove {
   background-image: url(media/img/love-from-the-021-2-35.jpg); }
 
-#slide15 {
+#dream-lover {
   background-image: url(media/img/love-from-the-021-2-44.jpg); }
 
-#slide16 {
+#right-where-you-are {
   background-image: url(media/img/love-from-the-021-2-29.jpg); }
 
-#slide17 {
+#dreams-do-come-through {
   background-image: url(media/img/love-from-the-021-2-48.jpg); }
 
-#slide18 {
+#a-wave-of-smiles {
   background-image: url(media/img/love-from-the-021-2-52.jpg); }
 
-#slide19 {
+#cut-out-the-middle-man {
   background-image: url(media/img/love-from-the-021-2-39.jpg); }
 
-#slide20 {
+#your-turn {
   background-image: url(media/img/love-from-the-021-2-50.jpg); }
 
-#slide21 {
+#my-other-me {
   background-image: url(media/img/love-from-the-021-2-42.jpg); }
 
-#slide22 {
+#one-now {
   background-image: url(media/img/love-from-the-021-2-47.jpg); }
 
-#slide23 {
+#much-love {
   background-image: url(media/img/love-from-the-021-2-24.jpg); }
 
-#slide24 {
+#family-ties {
   background-image: url(media/img/love-from-the-021-2-46.jpg); }
 
-#slide25 {
+#collective-consideration {
   background-image: url(media/img/love-from-the-021-2-43.jpg); }
 
-#slide26 {
+#old-school {
   background-image: url(media/img/love-from-the-021-2-67.jpg); }
 
-#slide27 {
+#one-heart {
   background-image: url(media/img/love-from-the-021-2-159.jpg); }
 
-#slide28 {
-  background-image: url(media/img/love-from-the-021-2-131.jpg); }
-
-#slide29 {
+#between {
   background-image: url(media/img/love-from-the-021-2-173.jpg); }
 
-#slide30 {
+#distractionless {
   background-image: url(media/img/love-from-the-021-2-180.jpg); }
 
-#slide31 {
+#english-flavoured-water {
   background-image: url(media/img/love-from-the-021-2-158.jpg); }
 
-#slide32 {
+#air-to-the-throne {
   background-image: url(media/img/love-from-the-021-2-40.jpg); }
 
-#slide33 {
+#story {
   background-image: url(media/img/love-from-the-021-2-10.jpg); }
 
-#slide34 {
+#onesies {
   background-image: url(media/img/love-from-the-021-2-154.jpg); }
 
-#slide37 {
+#in-tonights-headlines {
   background-image: url(media/img/love-from-the-021-2-185.jpg); }
 
-#slide38 {
+#miss-understanding {
   background-image: url(media/img/love-from-the-021-2-188.jpg); }
 
-#saying1 {
+#conviction {
   background-image: url(media/img/love-from-the-021-2-5.jpg); }
 
-#saying2 {
+#permission {
   background-image: url(media/img/love-from-the-021-2-20.jpg); }
 
-#saying3 {
+#happening {
   background-image: url(media/img/love-from-the-021-2-31.jpg); }
 
-#saying4 {
+#deep {
   background-image: url(media/img/love-from-the-021-2-8.jpg); }
 
-#saying5 {
+#natural {
   background-image: url(media/img/love-from-the-021-2-23.jpg); }
 
-#saying6 {
+#cleanse {
   background-image: url(media/img/love-from-the-021-2-15.jpg); }
 
-#saying7 {
+#life {
   background-image: url(media/img/love-from-the-021-2-19.jpg); }
 
-#saying8 {
+#mind {
   background-image: url(media/img/love-from-the-021-2-30.jpg); }
 
-#saying9 {
+#whole {
   background-image: url(media/img/love-from-the-021-2-33.jpg); }
 
-#saying10 {
+#becomes {
   background-image: url(media/img/love-from-the-021-2-32.jpg); }
 
-#saying11 {
+#energy {
   background-image: url(media/img/love-from-the-021-2-55.jpg); }
 
-#saying12 {
+#i-and-i {
   background-image: url(media/img/love-from-the-021-2-41.jpg); }
 
-#saying13 {
+#free {
   background-image: url(media/img/love-from-the-021-2-57.jpg); }
 
-#saying14 {
+#feed {
   background-image: url(media/img/love-from-the-021-2-45.jpg); }
 
-#saying15 {
+#love {
   background-image: url(media/img/love-from-the-021-2-37.jpg); }
 
-#saying16 {
+#reason {
   background-image: url(media/img/love-from-the-021-2-90.jpg); }
 
-#saying17 {
+#oneness {
   background-image: url(media/img/love-from-the-021-2-174.jpg); }
 
-#saying18 {
+#created {
   background-image: url(media/img/love-from-the-021-2-64.jpg); }
 
-#saying19 {
+#shaped {
   background-image: url(media/img/love-from-the-021-2-125.jpg); }
 
-#saying20 {
+#death {
   background-image: url(media/img/love-from-the-021-2-82.jpg); }
 
-#saying21 {
+#wisdom {
   background-image: url(media/img/love-from-the-021-2-116.jpg); }
 
-#saying22 {
+#believe {
   background-image: url(media/img/love-from-the-021-2-103.jpg); }
 
-#saying23 {
+#creativity {
   background-image: url(media/img/love-from-the-021-2-87.jpg); }
 
-#saying24 {
+#human {
   background-image: url(media/img/love-from-the-021-2-149.jpg); }
 
-#saying25 {
+#earth {
   background-image: url(media/img/love-from-the-021-2-157.jpg); }
 
-#saying26 {
+#say {
   background-image: url(media/img/love-from-the-021-2-186.jpg); }
 
-#saying27 {
+#freedom {
   background-image: url(media/img/love-from-the-021-2-167.jpg); }
 
-#saying28 {
+#remember {
   background-image: url(media/img/love-from-the-021-2-187.jpg); }
-
-.aweh-table-toggle {
-  display: none;
-  position: absolute;
-  top: 10;
-  right: 10;
-  margin: 20px;
-  background-color: whitesmoke;
-  color: #555;
-  opacity: 0.9; }
 
 .overview {
   display: none;
@@ -772,5 +762,17 @@ body {
   content: "";
   width: 100%;
   display: inline-block; }
+
+.b {
+  font-weight: bold; }
+
+.i {
+  font-style: italic; }
+
+.uc {
+  text-transform: uppercase; }
+
+.grey {
+  color: #ccc; }
 
 /*# sourceMappingURL=one.css.map */

@@ -1,6 +1,6 @@
 importScripts('js/cache-polyfill.js');
 
-var CACHE_VERSION = 'app-v1.01';
+var CACHE_VERSION = 'app-v1.011.0';
 var CACHE_FILES = [
     '/',
     'js/app.js',
@@ -48,17 +48,13 @@ self.addEventListener('fetch', function (event) {
 function requestBackend(event){
     var url = event.request.clone();
     return fetch(url).then(function(res){
-        //if not a valid response send the error
         if(!res || res.status !== 200 || res.type !== 'basic'){
             return res;
         }
-
         var response = res.clone();
-
         caches.open(CACHE_VERSION).then(function(cache){
             cache.put(event.request, response);
         });
-
         return res;
     })
 }
