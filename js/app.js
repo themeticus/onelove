@@ -7,10 +7,10 @@
             console.error(e);
         })
 } else {
-    console.log('haaties-brudder')
+    console.log('haaties')
 }*/
 
- var stories = [
+var stories = [
   {title:"tomorrow was never part of the deal", story:"", size:"s", data:"earth"},
   {title:"if you must fight, try to love with the same conviction", story:"", size:"s", data:"conviction"},
   {title:"cells divide without your permission", story:"", size:"s", data:"permission"},
@@ -49,7 +49,7 @@
   {title:"volition", story:"<p>we all get our chance to be a dick...  skipping your turn is an art form</p>", size:"m", data:"volition"},
   {title:"create love", story:"<p>did you know, that one and a half billion humans, live on less than one original or loving thought per day?</p>", size:"m", data:"create-love"},
   {title:"truth be told", story:"<p>these pixels know how to lie, but not the trees... when a forest grows, its like a giant truth made of love</p>", size:"m", data:"truth-be-told"},
-  {title:"the beast", story:"<p><em>\"I'll kill you\"</em> &nbsp;the neighbour remembered her shouting frantically... but little would the police suspect, of marriage as the murder weapon</p>", size:"m", data:"the beast"},
+  {title:"the beast", story:"<p><em>\"I'll kill you\"</em> &nbsp;the neighbour remembered her shouting frantically... but little would the police suspect, of marriage as the murder weapon</p>", size:"m", data:"the-beast"},
   {title:"one love", story:"<p>all the love in me, is the same love found in you, when you see another human, you're just seeing another version of yourself, everything from the very best to the very worst. we are all on the same path, as a single entity, separated only by our perspectives</p>", size:"m", data:"onelove"},
   {title:"old school", story:"<p>I am humbled by your false sense of entitlement, it is forever a reminder, that I am but a thought</p>", size:"m", data:"old-school"},
   {title:"english flavoured water", story:"<p>the sun laughs at our dates &amp; times &amp; numbers, and everyday more words come and still more... when will one be enough</p>", size:"m", data:"english-flavoured-water"},
@@ -94,24 +94,18 @@
 			+story.title+'</h1>'
 			+story.story+'</div></div>'
 
-   	if (stories[i].size === "s") {
-		$(".s").append(s)		
-   	}
+   	if (stories[i].size === "s") $(".s").append(s)
 
-   	if (stories[i].size === "m") {
-		$(".m").append(m)			
-   	}
+   	if (stories[i].size === "m") $(".m").append(m)
 
-   	if (stories[i].size === "l") {
-		$(".l").append(m)			
-   	}
+   	if (stories[i].size === "l") $(".l").append(m)
 
-   	if (stories[i].size === "xl") {
-		$(".xl").append(m)			
-   	}
+   	if (stories[i].size === "xl") $(".xl").append(m)
 
    }
+
    return
+
   }
 
  }
