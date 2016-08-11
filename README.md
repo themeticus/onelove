@@ -2,4 +2,4 @@
 
 **encourage the courage... inspire the world**
 
-*a collection of stories buy Hugh Mosno*
+*a collection of stories by Hugh Mosno*
